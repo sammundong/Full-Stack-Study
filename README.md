@@ -1,4 +1,4 @@
-# 📕[Study Title]
+# 📕Full Stack Study
 Add a study introduction
 
 # 📝Study Curriculum
