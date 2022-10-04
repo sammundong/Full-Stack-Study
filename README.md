@@ -1,8 +1,8 @@
 # 📕Full Stack Study
-This is a full stack study conducted by GDSC DAU. <br>
-Full Stack Study aims to have the capability to learn about the front end in general and to address different layers of technology based on an understanding of the database and logic. Through this study, I hope you can see the big picture of the entire project, understand the development process from start to finish, and have basic skills. Furthermore, I hope Google Solution Channel will be able to achieve results based on this study.
+This is a full stack study conducted by **GDSC DAU**. <br>
+**Full Stack Study** aims to **have the capability** to learn about **the front end** in general and to address different layers of technology based on an understanding of the **database and logic**. Through this study, I hope you can see the big picture of **the entire project**, understand **the development process** from start to finish, and **have basic skills**. Furthermore, I hope **Google Solution Challenge** will be able to achieve results based on this study.
 
-Period: Early October to early January (However, the midterm/final exam period will be suspended for 2 weeks)
+**Period: Early October to early January** (However, the midterm/final exam period will be suspended for 2 weeks)
 
 # 📝Study Curriculum
 >### "the first step in a full stack"
