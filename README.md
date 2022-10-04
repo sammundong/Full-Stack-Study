@@ -5,7 +5,7 @@ This is a full stack study conducted by **GDSC DAU**. <br>
 **Period: Early October to early January** (However, the midterm/final exam period will be suspended for 2 weeks)
 
 # 📝Study Curriculum
->### "the first step in a full stack"
+>### **The First Step in a Full Stack**
 > **Week 1. Front End Basic 1 - HTML, CSS**<br>
 > - Tags and Properties
 >
