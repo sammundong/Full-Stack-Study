@@ -34,6 +34,7 @@ This is a full stack study conducted by **GDSC DAU**. <br>
 Organize this week's homework
 
 # 📑Study Reference
-Share study reference
-
+[HTML & CSS Lecture](https://www.youtube.com/watch?v=N_nVDZSAjq4&list=PLlaP-jSd-nK-ponbKDjrSn3BQG9MgHSKv) <br>
+[JavaScript Lecture](https://www.youtube.com/watch?v=KF6t61yuPCY) <br>
+[React Lecture](https://www.youtube.com/watch?v=AoMv0SIjZL8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7) <br>
 
