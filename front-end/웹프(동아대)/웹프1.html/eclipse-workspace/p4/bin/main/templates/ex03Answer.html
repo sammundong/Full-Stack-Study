@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.com">
+<head>
+<meta charset="UTF-8">
+<title th:text="|${name}가 좋아하는 색|"></title>
+</head>
+<body th:attr="style=|background-color:${color}|">
+<strong th:text="${name}">name</strong>님이 좋아하는 색은 <br>
+<strong th:text="${color}">color</strong>입니다.
+</body>
+</html>

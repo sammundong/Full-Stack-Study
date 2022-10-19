@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.com">
+<head>
+<meta charset="UTF-8">
+<title>list</title>
+</head>
+<body>
+<h2>회원 리스트</h2>
+<table width="200" border="1">
+<tr style="background-color:orange"><th>회원ID
+<tr th:each="m:${list}"> <td th:text="${m}">
+</table>
+
+</body>
+</html>
